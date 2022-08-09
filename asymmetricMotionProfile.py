@@ -3,9 +3,9 @@ from math import fabs
 from math import sqrt
 import numpy as np
 
-max_accel = 50
-max_decel = 30
-max_vel = 60
+max_accel = 70
+max_decel = 50
+max_vel = 55
 targetPosition = 300
 
 
